@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Tu Gestion Amiga</string>
+
+    <string name="login_title">Tu Gestion Amiga</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="register">Registrarse</string>
+
+    <string name="register_title">Registro</string>
+    <string name="full_name">Nombre Completo</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+    <string name="create_account">Crear Cuenta</string>
+
+    <string name="main_title">Menú Principal</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_search">Buscar</string>
+    <string name="nav_loans">Préstamos</string>
+    <string name="nav_account">Perfil</string>
+    <string name="greeting">Hola, Miguel,</string>
+    <string name="search_books">Buscar Libros</string>
+    <string name="my_loans">Mis Préstamos</string>
+    <string name="my_account">Mi Cuenta</string>
+    <string name="help">Ayuda</string>
+
+    <string name="search_title">Buscar Libros</string>
+    <string name="search_hint">Buscar…</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_fiction">Ficción</string>
+    <string name="filter_non_fiction">No Ficción</string>
+    <string name="view_detail">Ver Detalle</string>
+
+    <string name="book_detail_title">Detalle del Libro</string>
+    <string name="available">Disponible</string>
+    <string name="not_available">No disponible</string>
+    <string name="rent_book">Rentar Libro</string>
+    <string name="buy_book">Comprar Libro</string>
+
+    <string name="loans_title">Mis Préstamos</string>
+    <string name="loans_active">Activos</string>
+    <string name="loans_history">Historial</string>
+    <string name="status_active">Activo</string>
+    <string name="status_due_soon">Próximo a vencer</string>
+    <string name="renew">Renovar</string>
+    <string name="account_title">Mi Cuenta</string>
+    <string name="personal_data">Datos Personales</string>
+    <string name="settings">Configuración</string>
+
+    <string name="help_title">Ayuda</string>
+    <string name="help_text">Aquí encontrarás información y soporte para el uso de la aplicación.</string>
+    <string name="contact">Contacto</string>
+</resources>
